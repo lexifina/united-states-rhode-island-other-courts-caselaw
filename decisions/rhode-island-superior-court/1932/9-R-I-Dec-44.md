@@ -1,0 +1,30 @@
+---
+court: "Rhode Island Superior Court"
+docket: "88148"
+decided: "1932-08-01"
+citations: ["9 R.I. Dec. 44"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cecilia Perry, p. a. vs. Albert Quattrucci"]
+source_url: "https://static.case.law/ri-dec/9/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760821
+---
+
+# Perry v. Quattrucci
+
+## Majority (CAPOTOSTO, J.)
+
+CAPOTOSTO, J.
+In the afternoon of June 21, 1931, two young men and two girls went riding in a Chevrolet roadster. Their meeting and destination were variously described and are material only as an element in determining the credibility of their conflicting claims. The plaintiff was seated beside the defendant, who was driving. The other two were in the rumble seat. Their journey was uneventful, as far as the evidence discloses, until they started to travel over a portion of the Fall River road in the State of Massachusetts which was under construction. Here the defendant lost control of the car with the result that it landed its occupants against a tree. What caused the accident is the subject of a direct conflict in the testimony. Under explicit instructions that, according to Massachusetts law, the defendant could be held liable for injury to his guest only if he were found guilty of gross negligence, the jury found for the defendant. The instructions given must have been satisfactory to both sides for neither counsel saved that right of review which so frequently hangs as a sword of Damocles over a trial justice’s head. The plaintiff moves for a new trial on the ground that the verdict is against the evidence.
+At the place of accident a four-lane road was under construction. The two center lanes were open to traffic. The lane to the right, going in the direction of Fall River, and probably the one to the left, was excavated to some considerable depth, perhaps 12 to IS inches below the travelled surface. The road conditions, insofar as the portion of the highway open to traffic was concerned, were good. Traffic at the time was light.
+In substance, the plaintiff claims that the defendant was driving at a speed which caused her to warn him to slow down or else to let her out; that, paying no heed to her request, the defendant turned into the left lane of the travelled portion of the highway and passed a car in front; that, shortly after, the back wheel of the roadster skidded, the car went off the highway onto the lane under construction to its left, got on the cement surface again, swerved a few times and finally landed with its front against a tree on the right side of the road.
+The defendant denies any request to reduce speed or to let her out, on the part of the plaintiff. He claims that he passed another car at about 30 miles an hour, ran over something in the road with his rear wheels which tore the steering wheel out of his hands and ran against a tree before he could do anything to avoid the accident. What he ran over, if anything, he did not see and, therefore, is left to speculation.
+The jury was confronted with these conflicting facts. They saw the witnesses and had an opportunity to appraise their respective worth. One thing is certain. The plaintiff must have told the defendant to slow down in such a moderate tone of voice as to be inaudible to the other occupants of the car. At least, her protest, if any, was not of the kind that attracted the attention of her companions either by words or act. Furthermore, while the plaintiff was, without doubt, painfully injured, yet her injuries were without question greatly exaggerated. These two facts, together with other circumstances of a minor nature, must have had a positive effect upon the jury.
+For plaintiff: Ralph M. Greenlaw.
+For defendant: Frederick A. Jones.
+The Court appreciates the courtesy of counsel for the plaintiff for the abstract of Massachusetts authorities upon the question of what constitutes gross negligence. An examination of those and other decisions discloses the fact that in that State the Court is faced with considerable difficulty in determining under what conditions a case should be sent to the jury on this issue. All the citations presented are cases which turn upon the point of whether or not the issue was properly kept away from or sent to the jury. No case has come to the Court’s attention disturbing a jury’s finding. This does not mean that there may not be such decisions or that a jury’s decision which is obviously unjust should not be set aside, yet it does show that a verdict is not easily overturned in a matter which is marked by such indefinite boundaries. When ordinary negligence ceases and gross negligence begins is a proposition upon which reasonable men may honestly disagree.
+In the particular case at bar, there is abundant evidence of negligence but this Court cannot say that in view of all the circumstances in the case, direct, circumstantial and incidental, the jury was not warranted in its finding. No doubt the defendant was going faster than was reasonable and equally without doubt he went over something with his rear wheel. What he probably went over was the edge of the road rather than any object in the roadbed itself. There was no oncoming traffic near enough at the time which made it improper for him to pass a vehicle in front, provided the driver used proper care. He failed to do this by getting too near the lane under construction and by proceeding at a higher rate of speed than was reasonable at the time.
+In construing the facts at issue, the jury was entitled to a reasonable latitude. Furthermore, it also had to keep in mind that it was incumbent on the plaintiff to establish gross negligence by a fair preponderance of the credible evidence in the case. This Court cannot say that the jury was not warranted in reaching the conclusion that it did even though a contrary view might reasonably be arrived at by others.
+Motion for new trial denied.
