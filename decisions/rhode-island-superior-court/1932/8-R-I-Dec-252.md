@@ -1,0 +1,35 @@
+---
+court: "Rhode Island Superior Court"
+docket: "71916"
+decided: "1932-03-28"
+citations: ["8 R.I. Dec. 252"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lena L. Bradley, Adm’x. Estate William C. Bradley, Dec’d. vs. James W. Quinn, C. T."]
+source_url: "https://static.case.law/ri-dec/8/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6766722
+cites_cases: ["147 Atl. 757"]
+---
+
+# Bradley v. Quinn
+
+## Majority (FROST, J.)
+
+FROST, J.
+Heard on defendant’s motion for new trial after verdict for plaintiff in the sum of $3,658.84.
+This is an action in assumpsit on the common counts brought by the present plaintiff’s intestate to recover the value of certain services rendered to the City of Woonsocket, at its request, and for certain disbursements made in its behalf.
+From the evidence introduced at the trial of the ease, it appeared that in the year 1925, the City of Woonsocket desired to improve its water supply; that to that end the City Council 'passed a resolution authorizing the appointment by the Mayor of. a committee of five persons to investigate condition of the water supply in Woon-socket; that at that time William O. Bradley, ■& resident of the city, engaged in the real estate business, owned with Eugene J. Tessier the Cranberry Meadow, so-called, located in Massachusetts and containing about 107 acres of land of which approximately 58 acres were covered with water; that apparently the city desired this land as well as additional land which its experts on water supply advised was required. It was at that stage that the Special Committee on Water Supply summoned Mr. Bradley and requested him to have certain engineering work done, boundaries defined, &c., in connection with certain options that he possessed on land adjoining his own and also to obtain some additional options. No work was requested concerning land which he owned. There was evidence that he would be paid for his services and for his reasonable disbursements and expenses. ’ All options were to be submitted .to the City at cost. Mr. Bradley obtained the necessary options, paid Arnold 'Seagrave, an engineer, a bill of $1,429.92; did a considerable amount of work himself and incurred some expenses.
+It is not contended seriously that the amount found by the jury was not a proper sum had the services, expenses, &c., been authorized, but the defendant asserts that what was done by Mr. Bradley was done as a condition of the purchase of his land by the City and that in any event there was no sufficient authority for doing the work and incurring the expense.
+As for the City’s first defense, that Mr. Bradley’s services were to be given in consideration of the purchase of his land, it may be said that that defense carries with it a certain force because of its plausibility. Bradley and Tes-sier had a substantial amount of real estate which it would seem was of little value for general farm purposes and the City was giving a very substantial amount of cash for it. However, there was ample evidence that the understanding was that Mr. Bradley was to be paid in cash for his services and that his disbursements would be refunded to him. The jury by its verdict, both general and special, has showed that it adopted- the contention of the plaintiff and the Court cannot say that this view of the evidence on this point was not well founded.
+It did not appear that there was any record of the engagement of the services of Mr. Bradley by the Special Committee on Water .Supply nor did it appear that any vote was taken in the Committee relative to the hiring and for these reasons the defendant urges that there was no authorization by the Committee. It was, of course, necessary to show the will of the Committee. Ordinarily the written record is the easiest way to show the will of the Committee, but in this case, in the absence of a written record, there was evidence from which the jury c.ould fairly conclude that it was the will of the Special Committee that Mr. Bradley be hired.
+For plaintiff: John R. Higgins.
+For defendant: Ovila Lambert.
+Assuming then that; the jury was justified in finding that the Special Committee had engaged Mr. Bradley, did the Special Committee have authority to so engage him or, if not, was its action ratified by the City Council? Our Supreme Court in Bradley vs. Follen, C. T. (1929) 147 Atl. 757, has already said that a resolution of the City Council, passed on January 18, 1926, did not authorize the Special Committee to make a contract for the expenditure of money to secure options and it is not claimed that there is any other resolution which gave that Committee authority so to do. It must be concluded, therefore, that authority to contract with Mr. Bradley for his services, &c., did not lie in the Special Committee.
+As to the question of ratification, the jury found specially that the City Council and the Mayor knew, on or before April 12, 1926, that Mr. Bradley was doing the work and making the expenditures for which this suit was brought and at the request of the Special Committee on Water Supply; that the City Council and the Mayor ratified such engagement of Mr. Bradley, and that the City Council and Mayor adopted the benefits of Mr. Bradley’s labor and disbursements on or before April 12, 1926, with knowledge of the fact that he had a bill for such labor and disbursements. Were these findings fairly based upon evidence in the case?
+The City Council passed a resolution, approved by the Mayor on January 27, 1926, appropriating $60,750 for the purchase of the Cranberry Meadow land, so-called, such sum to be expended under the direction of the Special Committee on Water Supply. The City Council passed a resolution, approved by the Mayor on April 22, 1926, directing the Special Committee on Water Supply to purchase the land known as the Cranberry Meadow project, the same to be within the appropriation passed by the City Council. On the same day a resolution appropriating an additional sum of $9,500 for the purchase of land was passed, the money to be expended under the direction of the Special Committee on Water Supply.
+In November, 1926, a resolution was passed by both branches of the City Council appropriating $3,393.18 to pay 'Mr. Bradley’s bill but was vetoed by the Mayor. It does not appear very clearly that he disapproved of the entire bill but only of certain items.
+■ This documentary evidence, together with oral evidence given at the trial, amply justified the jury in reaching the conclusion that the City Council was cognizant of and had approved of the action of the Special Committee on Water Supply in hiring Mr. Bradley.
+A careful consideration of all .the testimony leads the Court to the conclusion that the verdict of the jury is founded on evidence and is not against the weight thereof, nor is the verdict against the law as given to the jury by the Court. It can hardly be claimed that the verdict if sustainable at all is excessive in amount.
+For the foregoing reasons defendant’s motion is denied.
