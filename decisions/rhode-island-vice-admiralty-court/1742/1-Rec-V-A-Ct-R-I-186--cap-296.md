@@ -1,7 +1,7 @@
 ---
 court: "Rhode Island Vice Admiralty Court"
 decided: "1742-10-09"
-citations: ["1 Rec. V.A. Ct. (R.I.) 186", "1 Rec. V.A. Ct. (R.I.) 185"]
+citations: ["1 Rec. V.A. Ct. (R.I.) 186"]
 reporter: "rec-va-ct-ri"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
