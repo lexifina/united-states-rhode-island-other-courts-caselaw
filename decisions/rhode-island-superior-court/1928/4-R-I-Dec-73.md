@@ -1,0 +1,29 @@
+---
+court: "Rhode Island Superior Court"
+docket: "P. A., No. 1032"
+decided: "1928-01-30"
+citations: ["4 R.I. Dec. 73"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lucy L. Coggeshall vs. Clarence Davis, Ex'r."]
+source_url: "https://static.case.law/ri-dec/4/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6762625
+---
+
+# Coggeshall v. Davis
+
+## Majority (WALSH, J.)
+
+WALSH, J.
+This in an appeal from the probate of an instrument purporting to be the last will of John R. Potter, late of the Town of Bristol. The appellant is the daughter and only child of the deceased. The grounds urged by appellant are (1) undue influence exercised upon deceased by one Elizabeth Lake; and (2) lack of testamentary capacity. The jury found that the instrument offered for probate was not the last will and testament of John R. Potter and the matter is now before us on the appellee’s motion for a new trial.
+In October, 1926, John R. Potter was taken to the Rhode Island Hospital suffering from enlarged prostate, chronic nephritis and chronic myocardi-tis. He was operated upon twice, the last operation taking place about November 18, 1926. For four or five days after the second operation his condition was very poor. According to Dr. Griggs, his physician, for these four or five days he was quite drowsy, an aspect of uremia, but could be aroused and, when aroused, he was mentally clear but that during- this time he was drowsy intensively for a good deal of the time.
+On November 22, 1926, at about 3 P. M., Elizabeth Lake, a neighbor of John R. Potter at Bristol Narrows and no relative, went to the Rhode Island Hospital. Mr. Potter was expected by his physician to die that day. Miss Lake talked with Mr. Potter about making his will and discussed with him the disposition of his property. This talk lasted about three-quarters of an hour. During the talk Miss Lake made a memorandum containing the alleged bequests. This memorandum included a bequest of $200 or $300 to Miss Lake, a bequest of $500 to Pauline Volden, a friend of Miss Lake, who had acted as housekeeper for Mr. Potter for about one week before his removal to the hospital, the disposition of boats, etc., to friends of Mr. Potter in Bristol, and a bequest of $10 to the appellant, the only daughter of John R. Potter. Miss Lake called Arthur Johnson, Esq., to the hospital the same afternoon and upon his arrival, within an hour after the call, told him that Mr. Potter wanted to make a will and handed to him the memorandum prepared in her handwriting as above set forth. Mr. Johnson had never known Mr. Potter previous to t-his visit, but had performed legal service for Miss Lake. Mr. Johnson wrote out the instrument in long hand at the hospital, using Miss Lake’s memorandum in talking with Mr. Potter about the bequests, and Mr. Potter made his mark to it Mr. Johnson testified that at no time during his visit did Mr. Potter open his eyes, that he had to call on Miss Lake, who was present part of the time the lawyer was there, to translate some things Mr. Potter was saying, but says that Mr. Potter was of sound mind and knew what he was doing. Mr. Johnson was particularly emphatic as to the reason Mr. Potter gave him for “cutting off” his only daughter, viz.: that he did not want anyone of the name of the daughter’s husband to have any of his money.
+The appellee introduced testimony to the effect that Mr. Potter was well along in years; that he was very deaf; that he lived with his daughter, her husband and two children until they moved -South a year or two before Mr. Potter’s death; that his daughter was tubercular; that she and her husband desired to go South for the daughter’s health and invited Mr. Potter to go with them but he felt that the climate would not gree with him because he was so “fat;” that he was particularly fond of his two grandchildren and missed them “terribly” after they left; that he expressed great pleasure upon receipt of mail from his daughter. A number of witnesses who visited him at the hospital on or about November 22, 1926, and a patient in the room opposite Mr. Potter testified that Mr. Potter was in a stupor and replied “Yes” to everything that was said to him at that time when he was aroused; that you had to shake him by the shoulder to arouse him, etc. The patient, in the hospital at the time for appendix removal, was an inhabitant of Bristol and had known Mr. Potter for years, knew his peculiarities, particularly his deafness, and he swears positively that on the afternoon the instrument is alleged to have been executed, the door of Mr. Potter’s room remained open so that the witness could see what was going on in Mr. Potter’s room; that at no time during that afternoon was any talk had with Mr. Potter about a will, because if such a talk had taken place the voices would have had to have been so loud to make Mr. Potter hear that they could not have escaped the notice of the witness across the hall.
+The will is an unnatural will. It is not usual for a father to cut off his only child, or the children of that child of whom he was fond, for such a reason as given by Miss Lake or the other witnesses for the appellee.
+Eor appellant: E. Raymond Walsh.
+For appellee: Arthur P. Johnson.
+Taking into consideration all the circumstances surrounding the last illness and death of Mr. Potter, the jury might reasonably decide that this instrument expresses the wishes and desires of Elizabeth Lake rather than of John R. Potter.
+We feel that this jury gave painstaking and conscientious attention to all of the evidence in the case and that their verdict was one that reasonable men could arrive at honestly on the evidence.
+Motion for new trial denied.
