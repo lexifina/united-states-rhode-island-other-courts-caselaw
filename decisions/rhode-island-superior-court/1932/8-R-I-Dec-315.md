@@ -1,0 +1,51 @@
+---
+court: "Rhode Island Superior Court"
+docket: "80143; No. 80144"
+decided: "1932-06-02"
+citations: ["8 R.I. Dec. 315"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isador A. Luft vs. Factory Mutual Liability Company of America Morris Small vs. Same"]
+source_url: "https://static.case.law/ri-dec/8/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6768240
+cites_cases: ["17 R. I. 176"]
+---
+
+# Luft v. Factory Mutual Liability Co. of America
+
+## Majority (BLODGETT, J.)
+
+BLODGETT, J.
+Both cases heard upon plaintiff’s replication to defendant’s plea of the statute of limitations.
+There are two stipulations entered into on the record:
+(1) That the questions of negligence and damages shall be deemed res adjudicata in accordance with ■the decision of Mr. Justice Hahn in a former trial.
+(2) That the decision for the plaintiff Small shall be $450 if the replication is sustained.
+(3) That the decision for the plaintiff Luft shall be for $1,100 if said plea is sustained.
+These cases arose out of an automobile collision of a car driven by plaintiff and a car driven by one William P. Barstow on November 6, 1926. Barstow was a non-resident.
+Attorney Walter I. Sundlun, a member of the bar of this State, in behalf of the plaintiffs wrote a letter to said Barstow, in which Barstow was requested to name a representative with whom he (Sundlun) could confer, looking to an amicable settlement. Sund-lun received a reply from Barstow stating: “I am insured with the Automobile Insurance Company of America.” Both letters are exhibits on the record.
+Shortly after the receipt of this letter, Sundlun called at the office of William A. Lees in the Grosvenor Building, Providence, the agent for said insurance company. Said Lees was the secretary and adjuster of said insurance company and also secretary and adjuster of the defendant insurance company.
+The record shows that said Barstow had two policies of insurance, one for fire and theft in .the Automobile Mutual Insurance Co. of America and one for personal liability in defendant company. Sundlun testifies that he showed Lees the letter from Barstow, and that he asked Lees whether the statement in the letter was correct and that Lees replied that Barstow carried a policy in said Automobile Mutual Insurance Co. of America for personal liability; further, that the only claim he (Sund-lun) was pressing was for personal liability; that on January 14, 1927, said Lees made an offer in settlement of said claim. Lees admits this to be true.
+Subsequently writs were issued in behalf of said plaintiffs against said Automobile Mutual Insurance Co of America and in the trial of said action it transpired that the policy for insurance against personal liability was issued by the Factory Mutual Liability Company of America, and not by the company named in such actions, as said policy was a policy insuring against fire and theft.
+Such actions necessarily failed and these actions were brought against present defendant.
+The present actions were commenced more than two years after November 6, 1926, and defendant pleaded the statute of limitations.
+Exceptions taken to the decision of Mr. Justice Hahn were sustained by the Supreme Court, but upon opportunity being given plaintiffs for a rehearing, said causes were on November 21, 1931, ordered sent to this Court for a new trial.
+The issue in the present hearing is whether Sundlun was deceived by representations made by an agent of the defendant corporation that Barstow was insured against personal liability by a policy issued by the Automombile Mutual Insurance Co. of America, and that relying on such representation, as attorney for the plaintiffs, he caused action to be brought against said company, whereas in fact said company had issued no policy to Barstow insuring him against personal liability and whereas said company under its charter could not issue such a policy.
+Certain facts are clear from the record. Barstow wrote Sundlun that he (Barstow) had a policy in the Automobile Mutual Ins. Co. of America. Lees was agent and adjuster for both companies. The headquarters for both companies were in his (Lees) office. Lees, the agent, must have known that policies insuring against personal liability could not be issued by the Automobile Mutual Insurance Co. of America. Lees knew that the claims to be adjusted arose out of injuries received and not from theft of an automobile or its injury by fire. Lees knew or must have known at the time' of the service of the writ upon the Automobile Mutual Insurance Co. of America that said company had issued no policy .that would sustain liability in such actions. Negotiations for a settlement for personal injuries to plaintiffs were pending and an offer of settlement had been made by Lees.
+Under Sec. 7, Cap. 334, Gen. Laws 1923, any concealment of a cause of action, or the existence of a cause of action, must be fraudulent and by actual misrepresentation, to prevent the running of the statute of limitations until the person entitled to sue discovers the existence of such cause.
+There must be some actual misrepresentation to enable the plaintiffs to avoid the statute of limitations.
+Sundlun testifies to an actual misrepresentation made to him by Lees. Lees specifically denies such misrepresentation or any attempt to conceal any fact, and denies seeing the Barstow letter until the actual trial of the cases in Court.
+Sundlun testified that he showed the letter to Lees and asked him whether the postscript to the letter was correct and that Lees positively replied that Barstow was insured in the Automobile Mutual Insurance Co. of America for personal injury claims.
+It thus becomes the duty of the Court to determine which statement is true.
+In briefs filed, the testimony is carefully analyzed. If the testimony of Sundlun is credited, there is no question but that Lees made a direct misrepresentation of a fact that goes to the root of the case. On the one side we have a member of the bar of this Court in good standing. On the other, the credited agent of the defendant company, also a man of reputation and standing. Which of the two is more apt to be mistaken in his testimony? On the one side we have the attorney for the plaintiffs having at the time one thing on his mind, the interests of his clients. On the other side, the agent of the defendant who, in the mind of the Court acted in the nature of a referee in this matter. He knew which company involved had. insured Bar-stow for personal liability. Sundlun had received from Barstow the knowledge that he (Barstow) held a policy in the Automobile .Mutual Insurance Company of America. Very naturally he would ask the agent if it were a fact that Barstow held such a policy.
+As it happened, in the present case Barstow held, two policies, one for ■theft and fire in the last named company, one for personal liability in the defendant company.
+It seems clear to the Court that Lees, knowing this fact, and knowing that the defendant company was the one solely interested in the negotiations for a settlement of claims for damages, must have known that the company named by Sundlun as mentioned in the Barstow letter was not liable for such claims as were under discussion. Was his failure to disclose this to Sundlun a suppression of the truth? He was not perhaps legally bound to disclose this fact. 'He was not the attorney for the company. He was simply its agent passing on a claim made against a company which was not liable on its policy. When actions were subsequently brought against the Automobile Mutual Insurance Co. of America, he knew ■that the actions were brought against a company that was not liable. Neither he nor the attorneys for the company made any disclosure of this fact to Sundlun. Lees also knew at the time of the negotiations for settlement of claims for personal damages, and at the time actions were commenced for recovery, that a company of which he was the agent did hold a policy insuring Barstow against damages for personal liability, upon which1 recovery might be had. No disclosure of this was made by him or by the attorneys for the company to .Sundlun until trial of the cases, at which time the two-year period in which actions could be brought against the company which might be liable had expired.
+There is testimony on the part of Sundlun that after actions were brought and he attempted to discuss a settlement of the claims with the attorney for the insurance company, he was informed by said attorney that he was instructed by the defendant insurance company not to discuss the case with him. No denial of this testimony appears upon the record. Such testimony would seem to show that the insurance company did not intend to disclose knowledge it had that the actions were 'brought against the wrong defendant, but that such knowledge should not come to Sundlun, attorney for the plaintiffs, until the period for bringing such actions had expired, and, further, that some representation, either on the part of Barstow or the agent of the insurance company, led Sundlun to believe the Automobile Mutual Insurance Co. of America had insured Barstow against personal liability. The law is plain that in case of fraud and misrepresentation, the cause of action is deemed to accrue against the person so liable therefor, at the time when the person entitled to sue thereon shall first discover its existence.
+Chap. 334, Sec. 7, Gen. Laws 1923;
+Reynolds vs. Hennessey, 17 R. I. 176.
+Taking all the testimony into consideration, and all the surrounding circumstances, the Court is of the opinion that Sundlun did call the attention of Lees, the agent of defendant, to Barstow’s letter and did ask him if the said Barstow held a policy in the Automobile Mutual Insurance Co. of America, insuring Barstow against personal liability in case of accident, and that Lees did represent that said Barstow did hold such a policy, and that said Lees is mistaken in his testimony denying the same.
+For plaintiffs: Baker & Spicer.
+For defendants: Sherwood, Heltzen & Clifford.
+Decision for Morris Small for $450 and costs.
+Decision for Isador A. Luft for $1,100 and costs.
