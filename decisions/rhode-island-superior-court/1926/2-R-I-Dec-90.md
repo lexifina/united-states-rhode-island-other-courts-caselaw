@@ -1,0 +1,28 @@
+---
+court: "Rhode Island Superior Court"
+docket: "Eq.No.6312"
+decided: "1926-01-22"
+citations: ["2 R.I. Dec. 90"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dorothy G. Crowe vs. The M. Steinert & Sons Co"]
+source_url: "https://static.case.law/ri-dec/2/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6763220
+---
+
+# Crowe v. M. Steinert & Sons Co.
+
+## Majority (BAKER, J.)
+
+BAKER, J.
+Final hearing.
+This is a bill brought to permanently restrain the respondent company from taking possession of a certain piano now held by the complainant, or making any claims of ownership on the piano, or from interfering with the complainant'in the peaceful possession and enjoyment of said piano.
+The facts in the case show that the complainant before her marriage entered into a conditional sale agreement with respondent company for the purchase of a piano, the price of which was $400. She was made a certain allowance for sums already paid under a prior agreement. The agreement, in dispute, which bears date March-16, 1919, contained the provision that she should pay - on the sixteenth day of every month thereafter the sum of $10 until the company should have received the full sum of $400, “and to pay at end of each three months’ period interest at 6% per annum on all balances.” It is this provision which has brought about the present dispute. The complainant has paid to the respondent the full sum of $400. The respondent is making a further claim of $42 by way of unpaid interest. The complainant admits that she has not paid this, but claims that she is not obliged to pay it because the respondent company has waiveu its right to claim such payments and is also stopped by its conduct from requiring her to pay the interest.
+The facts show that apparently nothing was said about interest until a considerable portion of the principal sum had been paid. The receipts introduced by the complainant show that the balances stated therein as due contain no references to interest until the last few receipts were given, upon several of which appear the words “and interest” without naming any particular amount.
+The respondent urges that the complainant knew at all times that she would be required to pay interest and that it has in no way waived its claim for interest or done anything that would cause it to be estopped from making this claim for interest, although it did not definitely require a payment of interest at the end of every three months’ period. It is to be presumed that both parties knew and understood the terms of the contract which they signed. This agreement contained the further provision “that title to said property shall remain in the company until all said navments, with interest, a re full by me.”
+It is difficult at times to d^aw the lines between waiver and estoppel. Apparentlv the term waiver contains the idea that a party is more or less intention all v giving un some right about which it has full knowledge, or is failing or neglecting to insist upon its right at the proper time. The Court can not find in this case that there is anything here which would show that the respondent did anything or acted in such a way as to waive any of its rights in regard to interest. It does appear to the court that it can reasonably be inferred that the respondent intended to waive, or did waive, its claim to interest by any non-action on its part or by its failure, perhaps, to conform to the strict letter of the agreement. The question of estoppel is somewhat different. In the present situation, however, the Court can not see that the complainant has suffered any damage by reason of 'the fact that the 'respondent did not claim or figure interest at the end of every three months’ period. The matter involved merely the payment of money. There would not seem to be any change of circumstances or position on the complainant’s part relying on any act which the respondent had done in connection with the matter of interest which would create an estoppel in her favor. Further, there is some question in the mind of the Court as to whether or not the matters suggested by the complainant could not properly be decided in an action at law in case she was sued by the respondent company, or in case the respondent eom-panv should attempt in any way to retake or recover the piano. It is very nossible that the complainant’s remedy at law is adequate and that she does not need to come into equity for the relief which she is seeking. The complainant calls the attention of the Court to Chapter 210, General Laws of 1923, which formerly was Chapter 184, General Laws of 1909. This provides in substanee that where property is sold on the installment play, a receipt shall be given upon the payment of each in-stalment and such receipt shall show the balance of the price remaining unpaid. Section 2 of this chapter provides that a person violating any of the provisions shall be fined $20. In the judgment of the Court this section does not' apply to the case at bar. The statute referred to is clearly a criminal statute providing for the punishment by fine of the person violating it. Property rights and civil rights of parties the Court does not believe are governed or af-. fected by the chapter in question.
+For Complainant: J. J. McCabe.
+; For Respondent: Gardner, Moss, & Haslam.
+On the whole case the Court finds that the camplainant is not entitled to the relief for which she is ashing and the prayer of the bill is denied and the bill is dismissed..
