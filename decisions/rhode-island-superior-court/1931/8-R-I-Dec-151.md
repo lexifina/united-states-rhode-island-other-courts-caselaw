@@ -1,0 +1,31 @@
+---
+court: "Rhode Island Superior Court"
+docket: "Eq. No. 10088"
+decided: "1931-12-18"
+citations: ["8 R.I. Dec. 151"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henrietta A. Caswell et al. vs. Lillian M. Bathrick et al."]
+source_url: "https://static.case.law/ri-dec/8/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6763775
+---
+
+# Caswell v. Bathrick
+
+## Majority (SUMNER, J.)
+
+SUMNER, J.
+Complainants have brought their bill alleging as follows: that Marie P. Desrosiers died leaving a will dated January 7, 1920, wherein she bequeathed $3,000 to her daughter, the complainant Henrietta A. Cas-well, $1,000 to her grandson, the complainant Henry 0. Caswell, and the residue of her estate to another daughter, the respondent Lillian M. Bathrick, and appointed said Lillian M. Bath-rick and her husband, Warren C., executors of the will; that on May 2, 1923, said will was admitted to probate; that the respondents subsequently qualified as executors of the will and presented an inventory showing, among other items, cash of only $940.81; that said inventory has never been approved by the Court; that subsequently the respondents were examined in the Probate Court relative to the assets of the estate and the main facts upon which this bill is based were discovered in that examination; that the executors have filed no account and paid no legacies; that the testatrix in her lifetime opened accounts in several banks, some in her name and some in the joint names of the testatrix and the respondent Lillian M. Bathrick; that in May, 1920, the testatrix went to live with the respondent Lillian M. Bathrick, and at that time she was in feeble health; that the joint bank accounts were created by the testatrix for convenience only, so that money as needed by her could be withdrawn therefrom for her by said respondent Lillian M. Bathrick but that the ownership should remain in her; that the said respondent Lillian fraudulently induced the testatrix to sign certain orders which in effect made the accounts joint or else turned them over absolutely to said Lillian; that finally the accounts were so manipulated by said Lillian that she collected the money from all of them and placed it in her name, or her husband’s and her names jointly; that fifteen days after the death of the testatrix the respondent drew out all the accounts and attempted to secrete the money; that these withdrawals of funds were in fraudulent violation of the agreement by which the name of the respondent Lillian M. Bathrick became joined to the said accounts.
+The various transfers of the accounts, proved by the books of the banks, were admitted 'by the respondents, who claimed that they were merely carrying out the intention of the testatrix, who had agreed that if Mrs. Bathrick would take care of her, she (the testatrix) would leave her property to her when she died. The respondent Lillian also said that she agreed to take care of the testatrix for '$7,000. She testified, however, before the Probate Court, that a check for $7,000 was given her for her previous kindness to her mother and the rest of the money was in the shape of a gift.
+Henrietta A. Caswell offered testimony for complainants, also her son, Henry C. Caswell, his wife Myrtle, a Mr. Moore, and others, but the most effective testimony on behalf of the complainants was given by the respondent Mrs. Bathrick herself. Her conduct while on the witness stand was a palpable effort to conceal, evade or forget the facts in the case. She contradicted herself many times and admitted that her testimony given in this case varied materially from the testimony she gave before the Probate Court in Pawtucket.
+Decedent died March 12, 1923. The will was not filed till April 14th and was probated May 2, 1923. The executors did not qualify until August 27 of the same year, nor file their inventory until September 21, and apparently have done nothing toward administering the estate.
+Respondent Lillian admitted that shortly after her mother’s death, she withdrew money representing the accumulated deposits of her mother of over $10,000 and put them in a safe deposit box, and when asked what she had done with this amount of $10,000, she was unable to tell.
+The Court thinks the complainants have established their case.
+The respondents at the conclusion of the hearing raised the question of laches, saying that the complainants waited over six years after full knowledge of the facts before bringing suit.
+This statement is not correct according to the Court’s understanding of the testimony. The hearing before Judge Emerson in the Probate Court (wherein the respondents were examined as to concealing the assets of the estate) was not concluded until April 23, 1924, and until the conclusion of that hearing and the rendering of some decision by the Court, the complainants were not required to take any action. As a matter oí fact the Court never made any order in that matter.
+For complainants: Julius Ousley, McGovern & 'Slattery.
+For respondents: Ivnauer & Fowler, I-Iuddy & Moulton, Joseph Hammill.
+This bill was brought March 12, 1930, less than six years after the conclusion of the hearing. The attorney for the respondents cites the names of several witnesses who deceased before .the bringing of this (bill. One of them, a Oustav Menzel, signed his name as a witness to one of the orders given by Mrs. Desrosiers, when it clearly appeared in evidence that he was not in the room at the time when the order was signed. Whether his testimony would have been helpful, and the testimony of other witnesses mentioned by the respondents, we have no information but the Court is convinced that no additional testimony could have helped the respondent Lillian M. Bathrick after her pitiable exhibition on the witness stand. Moreover, the respondent executors have for a period of over 8 years failed to proceed with the administration of the estate.
+The complainants are entitled to relief and the amount of $10,156, with interest, which was drawn from the banks and concealed after the death of the testatrix, should be put into the assets of .the estate.
