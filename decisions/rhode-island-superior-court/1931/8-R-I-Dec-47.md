@@ -1,0 +1,29 @@
+---
+court: "Rhode Island Superior Court"
+docket: "73757"
+decided: "1931-07-24"
+citations: ["8 R.I. Dec. 47"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Catherine Riley vs. Constantine Tsagarakis et al."]
+source_url: "https://static.case.law/ri-dec/8/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761507
+---
+
+# Riley v. Tsagarakis
+
+## Majority (CARPENTER, J.)
+
+CARPENTER, J.
+This action was brought by the widow of Terrence Riley to recover for his death caused as -the result of being struck by the defendant’s truck. Upon the trial of the case the jury returned a verdict for the plaintiff in the sum of $5,000.00. The plaintiff thereupon filed a motion for a new trial, asking that a new trial be granted solely upon the question of damages. The defendant filed a motion for a new trial alleging the usual grounds, both of which motions are now before the Court.
+Mr. Riley was struck and killed on Broad Street in the City of Cranston, a short distance north of the point where Wentworth Avenue intersects said Broad 'Street. Mr. Riley, the deceased, was working as a trackman for •the United Electric Railways Company. Broad Street, between the curb lines, is 44.5 feet in width. There are on said Broad Street two double tracks, and repairs were being made on the easterly rail of said tracks, Broad Street running north and south. An excavation fifteen inches wide was made along the easterly side of said easterly rail which began at a point about five feet south of the northerly curb line of. Wentworth Avenue, extending north about thirty feet. About twenty-seven feet north of the northerly end of the first described excavation there was an excavation of shorter length but the same width along the same side of said rail. Along the side of each excavation and opposite thereto, a pile of dirt extended easterly three or four feet, the two piles of dirt being about forty or fifty feet apart. For the purpose of protecting the workmen and also protecting the traffic, three yellow flags about three feet square were placed along the line of ■said excavation. One was placed five or ten feet south of the first excavation, another about the same distance north of the second excavation, and the third midway between the two.
+A truck about seven feet wide was parked with the left wheels close to the easterly curb opposite the first pile of dirt. The distance between the easterly curb and the easterly rail was a little more than 24 feet. Between the southerly pile of dirt and the truck there was a space of about 11% feet, through which traffic passed. Several workmen were engaged in filling in the excavations. Just before the accident, the deceased asked the foreman who was standing by the side of the southerly pile of dirt for orders. The foreman directed him to place the tools which were on the sidewalk near the rear of the truck, on the truck. After the deceased received the orders, he started to walk across the street diagonally towards the rear of the truck, which was estimated to be a distance of about 25 or 30 feet. Very soon after the deceased started across the street, the defendant’s truck passed through the space between the pile of dirt and the truck and struck the deceased, knocking him down. Workmen hearing the crash looked and saw him lying face downwards in the street about four feet in the rear of the parked truck, his feet extending about two feet to the west of the right hand rear corner of the truck. His skull was fractured between his nose and the hair line and he was cut on the back of the head. The flesh on the back portion of the left forearm was cut, and one of the bones of the forearm was fractured. The deceased died within a short time after receiving the injuries.
+For plaintiff: Curran, Hart, Gainer & Carr.
+For defendant: Greenough, Lyman & Cross.
+The truck was not damaged, but on the right hand corner of the body were found blood stains, short spears of hair and bits of flesh. There was evidence that without any signal being given, the defendant’s truck passed through the narrow space between the pile of dirt and the parked truck at a speed of about twenty-five miles an hour. The defendant denied this and said that when he passed the truck parked next to the curbing, he was not going more than eight or ten miles per hour, and that he sounded his horn at Went-worth Avenue and again before he passed the parked truck.
+Upon this evidence and other evidence introduced at the trial, the Court feels that the jury were justified in returning a verdict for the plaintiff as to the liability of the defendant for the death of said Terrence Riley, and feels as to that issue that substantial justice has been done.
+On the question as to whether the damages awarded by the jury are excessive or insufficient, the Court feels that the damages awarded were not in accord with the evidence produced at the trial.
+It appeared from the evidence that Terrence Riley at the time he was killed was fifty-five years of age and had worked for the Electric Company for thirty years. He was a trackman and worked steadily, and also worked a considerable amount of overtime. His regular wages were $30.25 per week. He was a strong and healthy man and had no disease. It also appeared from the evidence that his personal habite were very simple and he spent but little for amusement or clothing.
+The Court does not feel that the plaintiff has been justly compensated for the death of said Terrence Riley and feels that although substantial justice has been done as to the question of liability, the amount of $5,000 is not a just verdict under the circumstances. Therefore, defendant’s motion for a new trial is denied, and plaintiffs motion for a new trial on the question of damages alone is granted.
