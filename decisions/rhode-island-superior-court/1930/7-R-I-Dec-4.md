@@ -1,0 +1,58 @@
+---
+court: "Rhode Island Superior Court"
+docket: "Eq. No. 9778"
+decided: "1930-06-26"
+citations: ["7 R.I. Dec. 4"]
+reporter: "ri-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rose A. Tierney vs. Citizens Savings Bank et als."]
+source_url: "https://static.case.law/ri-dec/7/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760836
+cites_cases: ["150 N. E. 293", "173 Fed. 676", "23 R. I. 609", "233 Mass. 579", "24 R. I. 565", "241 Mass. 60", "8 R. I. 160"]
+---
+
+# Tierney v. Citizens Savings Bank
+
+## Majority (BAKER, J.)
+
+BAKER, J.
+Pleard on bill, and answer in the nature of a cross-bill.
+The case, as presented, depends largely on questions of law, the facts being practical!y undisputed.
+The complainant is the wife of the respondent Tierney and has lived separate and apart from him for a number of years, following the decision of the court in a bed and board divorce case. The respondent Tierney and the respondent Mrs. Flanagan, who is his sister, are owners as tenants in common of a valuable parcel of real estate with, a 'building thereon, situated in Providence. The Citizens Savings Bank holds a first mortgage on this property.
+The principal question raised in this proceeding is whether the complainant or the respondents Tierney and Flanagan are entitled to compel the bank to make an assignment of this mortgage, the conditions of which have been broken and under which foreclosure proceedings have been started.
+The bill prays that the bank may be directed to assign the mortgage to a person designated by the complainant, and the cross-bill contains a prayer of the same general nature on behalf of the respondents Tierney and Flanagan.
+The testimony shows that the complainant formally made a request upon the bank for-an assignment a few days prior to that made by the respondents, although it does appear that some more or less indefinite negotiations on behalf of the respondents had been taken up with the bank shortly prior to the time the complainant made her demand.
+The complainant is relying chiefly on the right given her, as she claims, by virtue of .Sec. 7 of Chap. 302 of the General Laws of 1923, and in particular to that portion of the statute reading as follows:
+“but a requisition of an incum-brancer shall prevail over a requisition of the mortgagor.”
+This section has been construed by the Court in the case of Atwood vs. Arnold et al., 23 R. I. 609, which the complainant urges is decisive of the case now before the Court. She claims that as a wife, being possessed of an inchoate right of dower in her husband’s property, she is an incumbran-cer and' entitled to prevail in regard to the matter of the assignment of the mortgage over the respondents Tierney and Flanagan, who are owners and mortgagors.
+The facts show that the complainant released her right of dower to the bank when the mortgage was executed, but did not sign the mortgage note and did not execute the mortgage as one of the grantors.
+The respondents contend that the complainant is not an incumbrancer within the meaning of the statute and is not entitled to demand an assignment of the mortgage. They urge that the case of Atwood vs. Arnold, supra, should be distinguished from this case in two particulars. First, because here the complainant signed the mortgage releasing her right of dower, and, secondly, because there is no connection or privity between the complainant’s and the respondent Mrs. Flanagan’s interest in the property, there being two distinct respondents in the ease at bar, viz. Tierney and Flanagan, each having separate estates and interests, whereas in the case above referred to there was only one principal respondent.
+After careful consideration, the Court has come to the conclusion that these claims of the respondents can not be supported. In the first place, it appears that in the Atwood case there were two mortgages, one of which had been signed by .the complainant therein for the purpose of releasing her dower precisely in the same manner as the complainant has acted here. Further, it seems well settled by numerous decisions that a married woman who has released her dower in a mortgage deed may redeem the mortgage to prevent foreclosure, and in this connection the Court can see little distinction in principle between the redemption and the assignment of the mortgage.
+iSee the authorities cited in Atwood vs. Arnold, supra.
+As to the claim of two distinct respondents in the case before the Court, it should be kept in mind that these two, namely, Mr. Tierney and Mrs. Flanagan, are tenants in common of the property in question, each being entitled to an undivided one-half. That being so, Mrs. Flanagan’s interest is to a certain extent incumbered by the inchoate dower of the complainant.
+It seems to the Court that under the decision in the Atwood case, this dower right is clearly in the nature of a lien upon the real estate and is considered an incumbrance to be protected, and the fact that there may be two individual respondents with separate interests or estates should not in principle defeat the complainant’s right.
+The Court is therefore of the opinion that the case of Atwood vs. Arnold, supra, is directly in point with the case now under consideration.
+See also United States vs. Certain Lands &c. 173 Fed. 676.
+In the judgment of the Court the complainant is an incumbrancer within the meaning of the section of the statute above referred to and, as such, should prevail over the respondents in the matter of compelling the assignment of the mortgage.
+On the principal issue before the Court, therefore, the prayers of the complainant’s bill are granted, and the prayers of the respondents’ cross-bill are denied and the cross-bill is dismissed.
+During the trial several supplemental issues were raised for determination by the Court. The respondent bank requested that the Court allow to it counsel fees covering services in the present case. The bank, in the opinion of the Court, is entitled to charge to its mortgage account, by virtue of the language contained in the mortgage itself, such counsel fees, if any, as may be due its attorneys growing out of the foreclosure of the mortgage and such counsel fees should be paid by the party obtaining the assignment. In the judgment of the Court, however, such person should not be compelled to pay the counsel fees of the bank in the present proceeding. The language of the statute in question does not seem broad enough to cover this charge and, furthermore, the Court feels that equity does not require it, but that it would be proper to allow each party to pay for its own legal services in this case.
+It is also suggested by the bank that the party prevailing herein pay into the registry of the court a sufficient sum to cover all the moneys due it in connection with the assignment of the mortgage. The complainant offers to do this in the 16th paragraph of her bill. The 'Court feels that she should do this as evidence of good faith and as an indication of readiness to consummate the assignment. The bank’s request in this regard is therefore granted. The exact amount and the time for making the deposit may be determined when the decree is entered herein.
+The complainant has questioned the propriety of allowing as foreclosure expenses a portion of the bill of the real estate agents who were employed by the bank to conduct the foreclosure sale. This part of the bill relates to certain expenses incurred in some advertising, showing that the foreclosure sale had been postponed.
+The Court feels that these expenses were incurred by the real estate agents and by the bank in good faith and that it was deemed necessary to give such notice in order not to inconvenience or disappoint prospective purchasers at the sale. The Court believes there was no abuse of a reasonable discretion in this connection, and thinks that this item in the bill may properly be allowed in the expenses of the foreclosure.
+The remaining question relates to the amount of interest which should be allowed on the mortgage. The note bears interest at the rate of 5)4%. It appears from the evidence that in the spring of 1918, at which time this mortgage was overdue, the bank, by means of a circular letter or some such general form of notice, raised the interest on all mortgages held by it, including the one in question, to 6%. The owners of the property, the respondents Tierney and Flanagan, made no objection of any kind to this though they signed no writing of any kind in this connection. As a matter of fact, it appears clearly that from 1918 up to August, 1929, interest has been paid on said mortgage at the rate of 6%. The complainant argues that in causing an assignment of the mortgage she should not be charged with more than 5%% and that the remaining %% for the last 11 years should be applied to the reduction of the principal of the mortgage and, further, that since September, 1929, at the time she made her demand for an assignment, interest on the mortgage should be computed at 5)4% instead of 6.
+An examination of the authorities makes it clear that parties to a mortgage may, as far as their own rights are concerned, make a valid and binding subsequent oral agreement that the debt secured by the mortgage should bear a higher rate of interest than that specified in the mortgage as originally given.
+Yol. 41, Corpus Juris, p. 473;
+Vol. 42, Corpus Juris, p. 398;
+Ellis vs. Sullivan, 241 Mass. 60;
+Barry vs. General Mortgage & Loan Corp., 150 N. E. 293 (Mass.).
+It seems clear that as far as the bank and the owners of the property are concerned, the arrangement to pay 6% instead of 5% was binding upon the parties, especially after an acceptance of the larger rate for so many years.
+The complainant cites no case directly in point supporting her contention. She attempts to draw an analogy to a relation of suretyship.
+Peckham vs. Hadwen, 8 R. I. 160;
+Mowry vs. Mowry, 24 R. I. 565.
+Undoubtedly the Court has held that a widow, where her dower rights are involved, is more or less in the position of a surety for the debts of her husband and that said debts should be paid wherever possible from other property so that her dower may be preserved. After consideration, however, the Court does not feel that this general principle applies to the case at bar or to the broad extent for which the complainant contends.
+In the case of Kempton vs. Boyle, 233 Mass. 579, the holders of two junior mortgages were required, when redeeming a prior mortgage, to pay a certain bonus about which they knew nothing and which did not appear in the mortgage or note itself, having been created by an oral arrangement. The Court can discover little difference in principle, as far as the sum to be paid is concerned, between an incum-brancer protecting her inchoate right of dower by compelling an assignment of a mortgage and the holder of a junior mortgage redeeming a prior mortgage to protect himself.
+For complainant: George Hurley.
+For respondents: Henshaw, Linde-muth & Baker; C. J. Brennan.
+The Court is of the opinion, therefore, that since 1918 the bank has been entitled to 6% interest on the mortgage in question, and that the complainant is not entitled to have any portion of this apply to the reduction of the principal of the mortgage and, further, that the arrangement between the bank and the owners of the property being valid and binding, the complainant should pay to the bank interest on said mortgage figured at the rate of 6% if she desires to bring about an assignment thereof.
